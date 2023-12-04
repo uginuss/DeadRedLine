@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+body{
+    background: rgb(18,4,255);
+    background: linear-gradient(90deg, rgba(18,4,255,1) 0%, rgba(6,0,116,1) 50%);
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+    align-items: center;
+
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+ul{
+    background-color: black;
+    border-radius: 12px;
+    padding: 0px 20px;
+    width: 80px;
+}
